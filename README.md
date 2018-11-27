@@ -1,2 +1,2 @@
 # Capstone Project Notebook
-Applied Data Science Coursera Capstone
+Capstone Applied Data Science
