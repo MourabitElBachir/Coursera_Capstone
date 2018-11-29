@@ -1,1 +1,2 @@
-"# Coursera_Capstone" 
+# Capstone Project Notebook
+Capstone Applied Data Science
