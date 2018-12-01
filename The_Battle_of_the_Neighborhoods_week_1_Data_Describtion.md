@@ -20,7 +20,7 @@ We will focus on the venue category parameter, refining and clustering different
 
 A sample of the venue data extracted with Foursquare API calls is showed in the picture below (New York City):
 
-![alt Features extracted fo New York City](New_York_City_Features_Example.JPG	)
+![alt Features extracted fo New York City](New_York_City_Features_Example.JPG)
 
 
 ### 1- Python packages and Dependencies :
