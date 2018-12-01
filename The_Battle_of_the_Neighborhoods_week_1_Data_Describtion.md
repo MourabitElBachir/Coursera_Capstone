@@ -40,4 +40,4 @@ We will focus on the venue category parameter, refining and clustering different
 
 [2] https://opendata.paris.fr/explore/dataset/quartier_paris/information/  : Paris Neighborhoods data
 
-[3] https://geo.nyu.edu/catalog/nyu_2451_34572 : New york Boroughs and Neighborhoods
+[3] https://geo.nyu.edu/catalog/nyu_2451_34572 : New york Boroughs and Neighborhoods data
