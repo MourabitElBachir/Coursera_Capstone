@@ -23,10 +23,15 @@ We will focus on the venue category parameter, refining and clustering different
 -	**NumPy** 	    – 	Library to handle data in a vectorized manner
 -	**JSON** 	      – 	Library to handle JSON files
 -	**Geopy**	      – 	To retrieve Location Data 
--	****Requests** 	– 	Library to handle http requests
+-	**Requests** 	  – 	Library to handle http requests
 -	**Matplotlib**	– 	Python Plotting Module
 -	**Sklearn** 	  – 	Python machine learning Library
 -	**Folium** 	    – 	Map rendering Library
+- **Seaborn**  	  –   is a Python data visualization library based on matplotlib
+
+#### Data Sets and APIs :
+
+**Foursquare API :** This project would use Four-square API as its prime data gathering source as it has a database of more than 105 million places, especially their places API which provides the ability to perform location search, location sharing and details about a business. Photos, tips and reviews jolted by Foursquare users can also be used in many productive ways to add value to the results. 
 
 #### Dataset sources :
 
