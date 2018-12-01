@@ -17,8 +17,8 @@ This work is about analysing two famous and multicultural cities : Paris and New
 
 We will focus on the venue category parameter, refining and clustering different categories of venues in major groups that will facilitate the analysis and also make possible the generation of better visualizations. Clustering algorithms like K-Means will be used to automatically group the neighborhoods in similar groups. Plotly, *Seaborn* and *Folium* Python packages are used for data rendering and visualization, providing rich graphs and maps.
 
-[1] Open Date for Paris - https://opendata.paris.fr/explore/dataset/quartier_paris/information/ : Paris Boroughs data
+[1] Open Date for Paris - https://opendata.paris.fr/explore/dataset/arrondissements/information/ : Paris Boroughs data
 
-[2] Open Date for Paris - https://opendata.paris.fr/explore/dataset/quartier_paris/information/ : Paris Neighborhoods data
+[2] Open Date for Paris - https://opendata.paris.fr/explore/dataset/quartier_paris/information/  : Paris Neighborhoods data
 
-[3] New York University, Spatial Data Reposirtory - https://geo.nyu.edu/catalog/nyu_2451_34572  : New york Boroughs and Neighborhoods)
+[3] New York University, Spatial Data Reposirtory - https://geo.nyu.edu/catalog/nyu_2451_34572 : New york Boroughs and Neighborhoods)
