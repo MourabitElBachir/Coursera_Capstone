@@ -17,17 +17,18 @@ This work is about analysing two famous and multicultural cities : Paris and New
 
 We will focus on the venue category parameter, refining and clustering different categories of venues in major groups that will facilitate the analysis and also make possible the generation of better visualizations. Clustering algorithms like K-Means will be used to automatically group the neighborhoods in similar groups. *Seaborn* and *Folium* Python packages are used for data rendering and visualization, providing rich graphs and maps.
 
-#### Python packages and Dependencies:
+#### Python packages and Dependencies :
 
-•	Pandas 	- 	Library for Data Analysis
-•	NumPy 	– 	Library to handle data in a vectorized manner
-•	JSON 	– 	Library to handle JSON files
-•	Geopy	– 	To retrieve Location Data 
-•	Requests 	– 	Library to handle http requests
-•	Matplotlib	– 	Python Plotting Module
-•	Sklearn 	– 	Python machine learning Library
-•	Folium 	– 	Map rendering Library
+-	**Pandas**	    – 	Library for Data Analysis
+-	**NumPy** 	    – 	Library to handle data in a vectorized manner
+-	**JSON** 	      – 	Library to handle JSON files
+-	**Geopy**	      – 	To retrieve Location Data 
+-	****Requests** 	– 	Library to handle http requests
+-	**Matplotlib**	– 	Python Plotting Module
+-	**Sklearn** 	  – 	Python machine learning Library
+-	**Folium** 	    – 	Map rendering Library
 
+#### Dataset sources :
 
 [1] https://opendata.paris.fr/explore/dataset/arrondissements/information/ : Paris Boroughs data
 
