@@ -33,8 +33,7 @@ A sample of the venue data extracted with Foursquare API calls is showed in the 
 -	**Matplotlib**	– 	Python Plotting Module
 -	**Sklearn** 	  – 	Python machine learning Library
 -	**Folium** 	    – 	Map rendering Library
-- **Seaborn**  	  –   is a Python data visualization library based on matplotlib
-
+- **Plotly**  	  –   is a Python data visualization library
 
 ### 2- APIs :
 
