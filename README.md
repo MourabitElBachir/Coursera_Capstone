@@ -1,2 +1,2 @@
-# Capstone Project Notebook
-Capstone Applied Data Science
+# Capstone Projects Notebook
+Applied Data Science Capstone
