@@ -227,21 +227,7 @@ With the previously encoded data, we will now aim to cluster the neighborhoods i
 
 The Paris City clusters are presented below.
 
-<table>
- <tr>
-  <td><img src="images/paris_cluster1.jpg" alt=""></td>
-  <td><img src="images/paris_cluster2.jpg" alt=""></td>
- </tr>
- <tr>
-  <td><img src="images/paris_cluster3.jpg" alt=""></td>
-  <td><img src="images/paris_cluster4.jpg" alt=""></td>
- </tr>
-  <tr>
-  <td><img src="images/paris_cluster5.jpg" alt=""></td>
-  <td><img src="images/paris_cluster4.jpg" alt=""></td>
- </tr>
-</table>
-
+<img src="images/paris_clusters.png" alt="Paris clusters" >
 
 
 #### Clusters of New York City
