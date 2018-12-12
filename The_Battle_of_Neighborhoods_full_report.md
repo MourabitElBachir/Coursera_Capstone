@@ -277,4 +277,4 @@ This is the clusters neighborhoods color representation in the Map of New York C
 - Cluster 4 : **Green**
 - Cluster 5 : **Orange**
 
-<img src="images/newyork_clusters_map.png" alt="New York City clusters map" >
+<img src="images/newyork_clusters_map.JPG" alt="New York City clusters map" >
