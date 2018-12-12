@@ -52,21 +52,21 @@ A sample of the venue data extracted with Foursquare API calls is showed in the 
 [5] https://geo.nyu.edu/catalog/nyu-2451-34490 : Geojson file to plot neighborhoods tabulation areas
 
 
-## 4- Methodology section :
+## Methodology :
 
-### 4.1- Business Understanding
+### 1- Business Understanding
 Our main goal is to create a reliable profile of the neighborhoods in New York City and Paris. Our fictional business clients are two entrepeneurs, one looking to open a new restaurant in New York City and another one looking to open a new bar in Paris.
 
-### 4.2- Analytic Approach
+### 2- Analytic Approach
 
 To decide the ideal neighborhood for the new business, we must classify the neighborhoods into differents kinds of regions based on the proportion of venue categories present in each one.
 
 After the necessary data preparation (collection, encoding and normalization) the neighborhoods will be clustered into five groups using the k-means clustering algorithm. To solve our business problem, the cluster that contains most **Going Out** type of venues will be further studied, and the venue categories in these neighborhoods in this group will be expanded, to give insight in the kinds of places that do not already exist in these neighborhoods. The information can help our business clients decide what kind of restaurant or bar & club are lacking and are probbable bunsiness opportunities.
 
-### 4.3- Data Requirements
+### 3- Data Requirements
 As discussed in the Data & Tools section, the data requirements for this research are the venue information for each neighborhood in Paris and New York City. Consequently, information about the neighborhoods (names and geographical coordinates) are also necessary.
 
-### 4.4- Data Collection & Understanding
+### 4- Data Collection & Understanding
 The required data is collected in the first parts of the Jupyter Notebook. Paris boroughs and neighborhoods are downloded from the **Open Data plateform**, links in [1] & [2] gives all necessary data format (Csv, Json, geoJson). The New York City boroughs and neighborhoods information is available from the JSON file provided in [3], and geoJson informations also available in links [4] and [5].
 
 At this point the data is organized in a Pandas DataFrame like the following:
@@ -217,3 +217,19 @@ The general services distribution is somewhat similar between the two cities, bu
 
 <img src="images/newyork_residentials_distribution.png" alt="Paris residentials distribution">
 
+## Results :
+
+### Neighborhood K-Means Clustering based on Mean Ocurrence of Each Larger Venue Category
+
+With the previously encoded data, we will now aim to cluster the neighborhoods into five clusters, each one with different major characteristics. **K-means clustering** is the algorithm that will be used - this algorithm aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean. K-Means uses an iterative refinement technique, and it is also referred to as Lloyd's algorithm. In the next pictures we show how the five clusters are characterised, in terms of median percent share of each kind of neighborhood.
+
+#### Clusters of Paris
+
+The Paris City clusters are presented below.
+
+
+
+
+#### Clusters of New York City
+
+The New York City clusters are presented below.
