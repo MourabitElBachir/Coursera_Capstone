@@ -209,7 +209,7 @@ The Restaurants distribution are much more different between Paris and New York 
 
 <img src="images/dist_services.JPG" alt="Services distribution">
 
-The general services distribution is somewhat similar between the two cities, but still following the same pattern than the previous ones - Paris seems more saturated while in New York City some neighborhoods have a deficiency of services.
+The general services distribution is somewhat similar between the two cities, but still following the same pattern than the previous ones - Paris seems more saturated while in New York City some neighborhoods have a deficiency of services (**Nearly 30 neighborhoods without services venues in New York City**)
 
 **Residentials Distribution in Each City**
 
