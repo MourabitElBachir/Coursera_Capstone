@@ -163,10 +163,13 @@ This data is then grouped for each Neighborhood, resulting in a dataframe with t
 
 In this section we list some visualizations and distributions relevants to the topic of this work. First, a histogram chart about the number of venues collected for each neighborhood and the correspondent distribution of neighborhoods based on the number of venues collected.
 
-  <img src="images/paris_venues_distribution.JPG" alt="Paris venues distribution">
+<img src="images/paris_venues_distribution.JPG" alt="Paris venues distribution">
   
+For Paris we have unfair distribution of venues because several neighborhoods have 100 venues whereas several other neaborhoods have a very few number of venues.
 
-  <img src="images/newyork_venues_distribution.JPG" alt="New York City venues distribution">
 
+<img src="images/newyork_venues_distribution.JPG" alt="New York City venues distribution">
+
+As it can be noted, New York City have several neighborhoods with "1-31" venues and an intermediary numberof neigborhoods with 100 venues.
 
 
