@@ -170,6 +170,35 @@ For Paris we have unfair distribution of venues because several neighborhoods ha
 
 <img src="images/newyork_venues_distribution.JPG" alt="New York City venues distribution">
 
-As it can be noted, New York City have several neighborhoods with "1-31" venues and an intermediary numberof neigborhoods with 100 venues.
+As it can be noted, New York City have several neighborhoods with "1-31" venues and an intermediary number of neigborhoods with 100 venues.
 
+
+**Bars & Clubs Distribution in Each City**
+
+<img src="images/paris_bars_distribution.png" alt="Paris bars & clubs distribution">
+
+
+<img src="images/newyork_bars_distribution.png" alt="Paris bars & clubs distribution">
+
+
+**Restaurants Distribution in Each City**
+
+<img src="images/paris_restaurants_distribution.png" alt="Paris restaurants distribution">
+
+
+<img src="images/newyork_restaurants_distribution.png" alt="Paris restaurants distribution">
+
+
+**Services Distribution in Each City**
+
+<img src="images/paris_services_distribution.png" alt="Paris services distribution">
+
+<img src="images/newyork_services_distribution.png" alt="Paris services distribution">
+
+
+**Residentials Distribution in Each City**
+
+<img src="images/paris_residentials_distribution.png" alt="Paris residentials distribution">
+
+<img src="images/newyork_residentials_distribution.png" alt="Paris residentials distribution">
 
