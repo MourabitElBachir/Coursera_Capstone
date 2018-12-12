@@ -317,7 +317,7 @@ From all the cities listed above, we can interact with the charts generated with
 
 BASSIN DE LA VILLETTE, ALIGRE - GARE DE LYON, SAINT - THOMAS D'AQUIN, TRIANGLE D'OR, SAINT - PHILIPPE DU ROULE, ALLERAY - PROCESSION, RENNES, HOCHE - FRIEDLAND, REPUBLIQUE - SAINT-AMBROISE, PLACE VENDOME, ARCHIVES, GOUTTE D'OR - CHATEAU ROUGE, MANIN - JAURES, ECOLE MILITAIRE, ODEON, BERCY.
 
-#### Best Neighborhoods for Restaurants in NYC
+#### Best Neighborhoods for Restaurants in New York City
 
 Greenridge, Williamsbridge, Longwood, Edgewater Park, Broad Channel, Remsen Village, Broadway Junction, Williamsburg, Van Nest, Throgs Neck, College Point, West Brighton
 
