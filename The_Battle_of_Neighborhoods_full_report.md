@@ -175,19 +175,25 @@ As it can be noted, New York City have several neighborhoods with "1-31" venues 
 
 **Bars & Clubs Distribution in Each City**
 
+Creating bar plots but only considering venues of the "Bars & Clubs" category, we can have an idea about the number of these types of business in each city and also their distribution between different neighborhoods. Both cities have some neighborhoods with several Bars & Clubs, indicating that there are agglomerations of business of the same kind at certain locations that will be further studied.
+
 <img src="images/paris_bars_distribution.png" alt="Paris bars & clubs distribution">
 
 
 <img src="images/newyork_bars_distribution.png" alt="Paris bars & clubs distribution">
 
+Comparing both distributions we can conclude that the restaurant business in New York City is much more saturated than in Paris, as only few neighborhoods have been "taken" by these establishments.
 
 **Restaurants Distribution in Each City**
+
+Creating bar plots but only considering venues of the "Restaurants" category, we can have an idea about the number of these types of business in each city and also their distribution between different neighborhoods. Both cities have some neighborhoods with several Restaurants, indicating that there are agglomerations of business of the same kind at certain locations that will be further studied.
 
 <img src="images/paris_restaurants_distribution.png" alt="Paris restaurants distribution">
 
 
 <img src="images/newyork_restaurants_distribution.png" alt="Paris restaurants distribution">
 
+Comparing both distributions we can conclude that the Bar & Club business in New York City is much more saturated than in Paris, as only few neighborhoods have been "taken" by these establishments.
 
 **Services Distribution in Each City**
 
