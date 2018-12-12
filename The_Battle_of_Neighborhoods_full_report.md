@@ -233,7 +233,7 @@ The Paris City clusters are presented below.
 
 **Cluster 2** aggregates neighborhoods with balanced shares of services, restaurants, bars and clubs. This cluster also has a few parks and nature proportional share, indicating that neighborhoods in these areas are also an urbanized parts of the city, indicating high development.
 
-**Cluster 3** aggregates neighborhoods with a a huge proportion of restaurants, followed by services and then bars. The parks and nature proportiona share in this cluster is higher than similar type of clusters in New York, indicating few residential venues like closed residential buildings, and bigger parks and florested areas (as is expected in some parts of Paris than in an urban sprawl like New York City).
+**Cluster 3** aggregates neighborhoods with a a huge proportion of restaurants, followed by services and then bars. The parks and nature proportiona share in this cluster is higher than similar type of clusters in New York.
 
 **Cluster 4** aggregates neighborhoods with a high prevalence of parks and nature, followed by leisure and sports. There are services, restaurants and bars but they aren't a common occurence in these areas. Here we also have the neighborhoods with the highest proportional share of the higher proportiona of transportation infrastructure compared to other cluster in Paris.
 
@@ -278,3 +278,51 @@ This is the clusters neighborhoods color representation in the Map of New York C
 - Cluster 5 : **Orange**
 
 <img src="images/newyork_clusters_map.JPG" alt="New York City clusters map" >
+
+
+### Paris Analysis
+
+For Paris, we selected the clusters 1, 2, 3 and 5. The cluster 4 aggregates neighborhoods with high numbers of bars and good demand and accessibility for the public (suburban areas), indicating places with lower rents and property prices - relative to city center neighborhoods, of the also selected cluster 2. Cluster 2 groups the more urbanized and developed parts of Paris, with several services category venues - making these areas great neighborhoods with high demand for restaurants, bars, nightclubs, etc. The list of neighborhoods in this cluster is presented below, and they basically form a list of places with well established business in the restaurant/bar/clubs segment. The optimal location for a new business in the restaurant or bar category can be further studied with the granular data about the specific themes of restaurants and bars. High demand signals high offerings and also higher competitivity, meaning that it's probably better to start a "new" kind of venue, in an untapped market in an underdeveloped or suburban area.
+
+#### Good neighborhoods for establishing new restaurant venues in Paris (possible untapped markets):
+
+BASSIN DE LA VILLETTE, ALIGRE - GARE DE LYON, SAINT - THOMAS D'AQUIN, TRIANGLE D'OR, SAINT - PHILIPPE DU ROULE, ALLERAY - PROCESSION, RENNES, HOCHE - FRIEDLAND, REPUBLIQUE - SAINT-AMBROISE, PLACE VENDOME, ARCHIVES, GOUTTE D'OR - CHATEAU ROUGE, MANIN - JAURES, ECOLE MILITAIRE, ODEON, BERCY, SAINT - MERRI, ENFANTS ROUGES, ELYSEES - MADELEINE, SAINT BLAISE, AMIRAUX - SIMPLON - POISSONNIERS, MOSKOWA - PORTE MONTMARTRE - PORTE DE CLIGNANCOURT, FLANDRE - AUBERVILLIERS, SAINT - GERMAIN L'AUXERROIS, OPERA - CHAUSSEE D'ANTIN, PLACE DES FETES, BEL - AIR NORD, TERNES - MAILLOT, MASSENA - JEANNE D'ARC, SALPETRIERE - AUSTERLITZ, FAUBOURG MONTMARTRE, SAINT - PLACIDE, MOUTON - DUVERNET, ROSA PARKS - MACDONALD, GEORGES BRASSENS, LES HALLES, SAINT - GERMAIN DES PRES, LES ILES, CHAMPERRET - BERTHIER, DIDOT - PORTE DE VANVES, REUNION - PERE LACHAISE, MAIRIE, MUETTE SUD, EPINETTES - BESSIERES, VAUGIRARD - PARC DES EXPOSITIONS, NATION - PICPUS, CHAILLOT, ANVERS - MONTHOLON, LA FOURCHE - GUY MOQUET, ARSENAL, EUROPE, INVALIDES, LA CHAPELLE - MARX DORMOY, GAMBETTA, DUPLEIX - LA MOTTE PICQUET, PONT DE FLANDRE, JARDIN DE REUILLY, MONTPARNASSE - RASPAIL, EMERIAU - ZOLA, BIBLIOTHEQUE - SEINE, PALAIS ROYAL, SORBONNE, CITROEN - BOUCICAUT, ITALIE - PEUPLIERS - RUNGIS, JEAN MOULIN - PORTE D'ORLEANS, JARDIN DES PLANTES, Non renseigné, TELEGRAPHE - PELLEPORT - SAINT-FARGEAU, PLAINE LAGNY, NATION - ALEXANDRE DUMAS, GRANGE AUX BELLES - TERRAGE, NOTRE - DAME DES CHAMPS, PLATEAU, CROULEBARBE, LEGENDRE - LEVIS, GRANDES CARRIERES - CLICHY, BUTTES AUX CAILLES - DAVIEL - BOUSSINGAULT, ARTS ET METIERS, SECRETAN, LEON BLUM - FOLIE-REGNAULT, CHATEAU D'EAU - LANCRY, CLIGNANCOURT - JULES JOFFRIN, SAINT - VICTOR, PIGALLE - MARTYRS, MONNAIE, PASTEUR - MONTPARNASSE, FAUBOURG DU TEMPLE - HOPITAL SAINT-LOUIS, BELLEVILLE, SAINT - GERVAIS, BASTILLE - POPINCOURT, BELLEVILLE - SAINT-MAUR, VAL DE GRACE, CAMBRONNE - GARIBALDI, MONCEAU, MONTORGUEIL - SAINT-DENIS, SAINT - AVOYE, DANUBE, MONTMARTRE, BLANCHE - TRINITE, SENTIER - BONNE NOUVELLE, AMANDIERS - MENILMONTANT.
+
+#### Good neighborhoods for restaurant venues in Paris (but probably saturated markets):
+
+NATIONALE - DEUX MOULINS, OLYMPIADES - CHOISY, MONTSOURIS - DAREAU, LOUIS BLANC - AQUEDUC, AUTEUIL SUD, VIOLET - COMMERCE, BATIGNOLLES - CARDINET, PORTE SAINT-DENIS - PARADIS, COURCELLES - WAGRAM, SAINT - VINCENT DE PAUL - LARIBOISIERE, BAS - BELLEVILLE, VIVIENNE - GAILLON, GROS CAILLOU, PERNETY, PEREIRE - MALESHERBES, SAINT - LAMBERT.
+
+
+### New York City Analysis
+
+For New York City, we selected the clusters 3 and 4. The cluster 4 aggregates neighborhoods with high proportion of restaurants but balanced proportions of services, and bars/clubs. Comparing cluster 4 with cluster 3, that aggregates city center neighborhoods with very high proportional share of bars & clubs and also relatively high proportion of restaurants, we can notice that cluster 4 is behind cluster 3 fairly close in the gentrification, or urban development process. This information can be used to plan the best locations for a restaurant business based on the intentions of our business client: does he want to open a restaurant in some place with high demand, but also high price of entry or he wants to bet in a place with less entrenched competitiors and also good demand? We list the possible neighborhoods for each group in the next subsection.
+
+#### Good neighborhoods for establishing new restaurant venues in New York City (not so much competition and good demand - "safe bets"):
+
+Greenridge, Williamsbridge, Longwood, Edgewater Park, Broad Channel, Remsen Village, Broadway Junction, Williamsburg, Van Nest, Throgs Neck, College Point, West Brighton, Morningside Heights, Flatbush, Gramercy, Lower East Side, Richmond Valley, Elm Park, Windsor Terrace, Woodhaven, Greenpoint, Madison, Shore Acres, Bedford Stuyvesant, Long Island City, Hudson Yards, Dyker Heights, Lighthouse Hill, Briarwood, Mariner's Harbor, Roxbury, Beechhurst, Woodlawn, Richmond Town, Belle Harbor, Mount Hope, East Williamsburg, Ocean Hill, Manhattan Beach, Country Club, South Ozone Park.
+
+#### Good neighborhoods for establishing new clubs and bars in New York City (not so much competition and good demand - "safe bets"):
+
+Hamilton Heights, Astoria, Unionport, Bushwick, Prospect Heights, Manor Heights, Manhattan Terrace, East Village, Yorkville, Great Kills, Woodside, Schuylerville, Sheepshead Bay, Tompkinsville, Arrochar, Fort Hamilton, Morris Park, Financial District, North Side, Noho, Murray Hill, Cobble Hill, Flushing, Richmond Hill, Rockaway Park, Rockaway Beach, Midtown South, New Dorp, Douglaston, Carroll Gardens, Carnegie Hill, South Side, Upper West Side, Inwood, Pelham Parkway, East New York, Rugby, Belmont, New Dorp Beach, Prince's Bay, Kingsbridge Heights, Forest Hills Gardens, North Riverdale, Sutton Place, Oakland Gardens, Bayside, Sunnyside Gardens, Manhattanville, Bay Ridge, Corona, Bath Beach, Stapleton, Park Slope, Bedford Park, Castleton Corners, Eltingville, Clinton, West Village, Manhattan Valley, Hunters Point, St. Albans, Annadale, Greenwich Village, North Corona, Ocean Parkway, Bulls Head, Middle Village, Chinatown, Upper East Side, Lenox Hill, Little Neck, Ravenswood, East Harlem, Clinton Hill, Brooklyn Heights, Hunts Point, Jamaica Hills, Gravesend, Turtle Bay, Bronxdale, Fulton Ferry, Murray Hill, Rosebank, Tudor City, Sunnyside, Fort Greene, Eastchester, Central Harlem.
+
+#### Good neighborhoods for restaurant venues in New York City (but probably saturated markets - entrenched business):
+
+Elmhurst, Paerdegat Basin, Cypress Hills, Prince's Bay, Olinville, Murray Hill, Canarsie, Floral Park, Ravenswood, Manhattanville, New Dorp, Laurelton, Hunts Point, Silver Lake, Jackson Heights, Greenwich Village, Sunnyside, Turtle Bay, Unionport, New Lots, Corona, South Side, Jamaica Hills, Midwood, Little Neck, Clinton Hill, Grant City, Chinatown, Mill Basin, University Heights, Tudor City, Bensonhurst, North Riverdale, Far Rockaway, Ridgewood, St. Albans, Annadale, Kingsbridge Heights, Manhattan Valley, East Village, Astoria, Belmont, Bronxdale, Schuylerville, Bedford Park, Bellerose, Bayside, Central Harlem, East Harlem, Manhattan Terrace, Bath Beach, Sheepshead Bay, Queensboro Hill, Great Kills, Upper West Side, Morris Park, New Dorp Beach, East New York, Oakland Gardens, Rockaway Beach, Bay Ridge, Prospect Heights, Park Slope, Murray Hill, Sunnyside Gardens, Brighton Beach, Eastchester, Fort Greene, Hamilton Heights, West Village, Hunters Point, Woodside, Rugby, Douglaston, Lenox Hill, Noho, Eltingville, Castleton Corners, Brownsville, City Island, Midtown South, Flatiron, Flushing, Forest Hills Gardens, Pelham Parkway, Rosebank, Kew Gardens Hills, Stapleton, Richmond Hill.
+
+### Refining the results
+
+From all the cities listed above, we can interact with the charts generated with Plotly in the Jupyter Notebook of this project and analyze the absolute number of restaurants and bars. Assuming that fewer restaurants are indicative of possible market opportunities we can refine the lists of clustered neighborhoods provided above:
+
+#### Best Neighborhoods for Restaurants in Paris
+
+BASSIN DE LA VILLETTE, ALIGRE - GARE DE LYON, SAINT - THOMAS D'AQUIN, TRIANGLE D'OR, SAINT - PHILIPPE DU ROULE, ALLERAY - PROCESSION, RENNES, HOCHE - FRIEDLAND, REPUBLIQUE - SAINT-AMBROISE, PLACE VENDOME, ARCHIVES, GOUTTE D'OR - CHATEAU ROUGE, MANIN - JAURES, ECOLE MILITAIRE, ODEON, BERCY.
+
+#### Best Neighborhoods for Restaurants in NYC
+
+Greenridge, Williamsbridge, Longwood, Edgewater Park, Broad Channel, Remsen Village, Broadway Junction, Williamsburg, Van Nest, Throgs Neck, College Point, West Brighton
+
+## Conclusion
+
+We finish this report with the conclusions of the study: a lot of assumptions are made to arrive at the final refined results. These assumptions can probably be wrong, and further study with more data must be taken to verify the quality of, or if any of the correlations really exist. Nevertheless our assumptions are simple and seem to be right: if there is a lot of restaurants in some area, it is probably because exists demand in this place. However, the market can also be saturated, or a very expensive area - considerations that our business sponsor must take into account when deciding where he will open his new restaurant. Because of these doubts, we researched two main types of neighborhoods: neighborhoods with high concentration of restaurant business (high competitivity) and also neighborhoods with good number of restaurants (indicating that some kind of demand exists) but not so many restaurants to make competition a problem. 
+
+The business sponsor can safely choose one of the neighborhoods listed as best. For a more comprehensive decision, the specific venue type (if it is a Chinese restaurant, or Japanese one, etc.) can be checked - and the venue with the lowest competition can be chosen accordingly.
