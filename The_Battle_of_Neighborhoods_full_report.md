@@ -155,7 +155,18 @@ The next important step is the preparation of the data for the clustering/classi
  - **New York City dataframe for clustering :**
 
   <img src="images/newyork_venues_encoding.JPG" alt="New York City dataframe for clustering">
+  
 
+This data is then grouped for each Neighborhood, resulting in a dataframe with the number of venues in each category for each neighborhood. With this data prepared, we can generate several rich visualizations about the statistical venue makeup of Paris and New York.
+
+**Understanding the Data Collected**
+
+In this section we list some visualizations and distributions relevants to the topic of this work. First, a histogram chart about the number of venues collected for each neighborhood and the correspondent distribution of neighborhoods based on the number of venues collected.
+
+  <img src="images/paris_venues_distribution.JPG" alt="Paris venues distribution">
+  
+
+  <img src="images/newyork_venues_distribution.JPG" alt="New York City venues distribution">
 
 
 
