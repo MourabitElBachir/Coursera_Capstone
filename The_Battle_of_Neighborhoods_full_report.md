@@ -229,15 +229,15 @@ The Paris City clusters are presented below.
 
 <img src="images/paris_clusters.png" alt="Paris clusters" >
 
-Cluster 1 aggregates neighborhoods with the highest proportion of restaurants in Paris, followed by services and then bars. This cluster also has the lowest parks and nature proportional share, indicating that neighborhoods in these areas are highly urbanized parts of the city. So the cluster indicate that these regions for some reason are attracting business related to nightlife and food.
+**Cluster 1** aggregates neighborhoods with the highest proportion of restaurants in Paris, followed by services and then bars. This cluster also has the lowest parks and nature proportional share, indicating that neighborhoods in these areas are highly urbanized parts of the city. So the cluster indicate that these regions for some reason are attracting business related to nightlife and food.
 
-Cluster 2 aggregates neighborhoods with balanced shares of services, restaurants, bars and clubs. This cluster also has a few parks and nature proportional share, indicating that neighborhoods in these areas are also an urbanized parts of the city, indicating high development.
+**Cluster 2** aggregates neighborhoods with balanced shares of services, restaurants, bars and clubs. This cluster also has a few parks and nature proportional share, indicating that neighborhoods in these areas are also an urbanized parts of the city, indicating high development.
 
-Cluster 3 aggregates neighborhoods with a a huge proportion of restaurants, followed by services and then bars. The parks and nature proportiona share in this cluster is higher than similar type of clusters in New York, indicating few residential venues like closed residential buildings, and bigger parks and florested areas (as is expected in some parts of Paris than in an urban sprawl like New York City).
+**Cluster 3** aggregates neighborhoods with a a huge proportion of restaurants, followed by services and then bars. The parks and nature proportiona share in this cluster is higher than similar type of clusters in New York, indicating few residential venues like closed residential buildings, and bigger parks and florested areas (as is expected in some parts of Paris than in an urban sprawl like New York City).
 
-Cluster 4 aggregates neighborhoods with a high prevalence of parks and nature, followed by leisure and sports. There are services, restaurants and bars but they aren't a common occurence in these areas. Here we also have the neighborhoods with the highest proportional share of the higher proportiona of transportation infrastructure compared to other cluster in Paris.
+**Cluster 4** aggregates neighborhoods with a high prevalence of parks and nature, followed by leisure and sports. There are services, restaurants and bars but they aren't a common occurence in these areas. Here we also have the neighborhoods with the highest proportional share of the higher proportiona of transportation infrastructure compared to other cluster in Paris.
 
-Cluster 5 aggregates neighborhoods with a huge proportional share of restaurants, followed by bars & clubs, and also serivces, indicating that these regions for some reason are attracting business related to nightlife and food.
+**Cluster 5** aggregates neighborhoods with a huge proportional share of restaurants, followed by bars & clubs, and also serivces, indicating that these regions for some reason are attracting business related to nightlife and food.
 
 In the map below we can see the geographical visualization of the different types of clusters created using K-Means for Toronto. The colors indicate the biggest proportional share of venue category.
 
