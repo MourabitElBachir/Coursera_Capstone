@@ -100,6 +100,62 @@ The **New York City** dataframe has 5 boroughs and 302 neighborhoods, and **Pari
 - **New York City Neighborhoods tablulation areas visualization :**
 
   <img src="images/newyork_neighborhoods.JPG" alt="New York City Neighborhoods tablulation areas">
+  
+  
+Departing from the same DataFrame, we now use the Foursquare API to collect venue data. Using the geographical coordinates of each neighborhood, API calls are made requesting the top 100 venues in a radius of 500 meters. The results are inserted in a new pandas dataframe, as presented in the following pictures : 
+
+ - **Paris venues Dataframe :**
+
+  <img src="images/venues_data_paris.JPG" alt="Paris venues Dataframe">
+  
+ - **New York City venues Dataframe :**
+
+  <img src="images/venues_data_newyork.JPG" alt="New York City venues Dataframe">
+
+
+The **"paris_venues"** dataframe has 7849 venues and 324 unique venue types, and the **"newyork_venues"** dataframe has 10265 venues and 429 unique venue types. The proportion in number of venues are expected, considering the population and population density of these two cities.
+
+ - **Paris venues Map Visualization :**
+
+  <img src="images/paris_venues_map.JPG" alt="Paris venues Map Visualization">
+  
+ - **New York City venues Map Visualization :**
+
+  <img src="images/newyork_venues_map.JPG" alt="New York City venues Map Visualization">
+  
+**Manually group Foursquare's venues categories found in Paris & New York City**
+
+The Venue Category data extracted with the Foursquare API is very granular, to facilitate the visualization of data the 324 unique types of venues in Paris and the 429 unique types of venues in New York City will be grouped into eight larger categories:
+
+- Bars and Clubs
+- Restaurants
+- General Services
+- Leisure & Sports
+- Culture & Education
+- Parks & Nature
+- Transportation Infrastructure
+- Residential
+
+In the image below we can see the total number of collected subcategories for each larger category. This classification was made by hand, because the Foursquare API do not provide hierarchical category information.
+
+  <img src="images/total_venues_global_categories.png" alt="Total venues collected categories">
+
+The Total collected subcategories between Paris & New York City are organized to larger categories in a csv file named : **"venues_categories.csv"**
+
+
+**Data Encoding**
+
+The next important step is the preparation of the data for the clustering/classification algorithms we are going to use later. Usually, only numeric inputs are valid in these algorithms, so in this section of our Jupyter Notebook the dataframes with venue data collected and classified so far is encoded, creating a bigger dataframe following the model in the picture below:
+
+
+ - **Paris encoded dataframe for clustering :**
+
+  <img src="images/paris_venues_encoding.JPG" alt="Paris encoded dataframe for clustering">
+  
+ - **New York City dataframe for clustering :**
+
+  <img src="images/newyork_venues_encoding.JPG" alt="New York City dataframe for clustering">
+
 
 
 
