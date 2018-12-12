@@ -185,7 +185,7 @@ Creating bar plots but only considering venues of the "Bars & Clubs" category, w
 
 <img src="images/dist_bars.JPG" alt="Bars & clubs distribution">
 
-Comparing both distributions we can conclude that the restaurant business in New York City is much more saturated than in Paris, as only few neighborhoods have been "taken" by these establishments.
+Comparing both distributions we can conclude that the restaurant business in Paris is much more saturated than in New York City.
 
 **Restaurants Distribution in Each City**
 
@@ -199,7 +199,7 @@ Creating bar plots but only considering venues of the "Restaurants" category, we
 
 <img src="images/dist_restaurants.JPG" alt="Restaurants distribution">
 
-The Restaurants distribution are much more different between Paris and New York City. In New York City this kind of business seems also saturated, with lots of places distributed between several neighborhoods, while in Paris there are much more inequality in restaurantss distribution between the neighborhoods - In Paris this kind of business is concentrated in few neighborhoods.
+The Restaurants distribution are much more different between Paris and New York City. In Paris this kind of business seems also saturated, with lots of places distributed between several neighborhoods, while in New York City there are much more inequality in restaurantss distribution between the neighborhoods - In New York City this kind of business is concentrated in few neighborhoods.
 
 **Services Distribution in Each City**
 
