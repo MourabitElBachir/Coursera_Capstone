@@ -229,7 +229,7 @@ The Paris City clusters are presented below.
 
 <img src="images/paris_clusters.png" alt="Paris clusters" >
 
-**Cluster 1** aggregates neighborhoods with the highest proportion of restaurants in Paris, followed by services and then bars. This cluster also has the lowest parks and nature proportional share, indicating that neighborhoods in these areas are highly urbanized parts of the city. So the cluster indicate that these regions for some reason are attracting business related to nightlife and food.
+**Cluster 1** aggregates neighborhoods with the highest proportion of restaurants in Paris, followed by services and then bars. So the cluster indicate that these regions for some reason are attracting business related to nightlife and food.
 
 **Cluster 2** aggregates neighborhoods with balanced shares of services, restaurants, bars and clubs. This cluster also has a few parks and nature proportional share, indicating that neighborhoods in these areas are also an urbanized parts of the city, indicating high development.
 
@@ -239,7 +239,7 @@ The Paris City clusters are presented below.
 
 **Cluster 5** aggregates neighborhoods with a huge proportional share of restaurants, followed by bars & clubs, and also serivces, indicating that these regions for some reason are attracting business related to nightlife and food.
 
-In the map below we can see the geographical visualization of the different types of clusters created using K-Means for Toronto. The colors indicate the biggest proportional share of venue category.
+In the map below we can see the geographical visualization of the different types of clusters created using K-Means for Paris.
 
 This is the clusters neighborhoods color representation in the Map of Paris:
 
@@ -257,3 +257,16 @@ The New York City clusters are presented below.
 
 <img src="images/newyork_clusters.png" alt="New York City clusters" >
 
+**Cluster 1** aggregates neighborhoods with a huge  proportion of services venues, followed by bars and restaurants, indicating that these neighborhoods are probably commercial districts or city centers. 
+
+**Cluster 2** aggregates neighborhoods with the highest prevalence of parks and nature (proportional share of 53.2%), and also transportation infrastructure. There are services, restaurants and bars but they aren't a common occurence in these areas.
+
+**Cluster 3** aggregates neighborhoods with a huge proportion of bars and clubs, followed by restaurants and services, indicating that that these regions for some reason are attracting business related to nightlife and food.
+
+**Cluster 4** aggregates the largest proportion of restaurants of all clusters, then followed by bars and also services venues, meaning that neighborhoods grouped in this cluster are important entities of study for our business problem related to restaurants and bars distribution.
+
+**Cluster 5** aggregates the largest proportion of transportation infrastructures and residentials of all clusters. This cluster also has a low proportional share of parks and nature, indicating that neighborhoods in these areas are highly urbanized parts of the city.
+
+In the map below we can see the geographical visualization of the different types of clusters created using K-Means for New York City. 
+
+<img src="images/newyork_clusters_map.png" alt="New York City clusters map" >
