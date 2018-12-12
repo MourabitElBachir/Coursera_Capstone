@@ -269,4 +269,12 @@ The New York City clusters are presented below.
 
 In the map below we can see the geographical visualization of the different types of clusters created using K-Means for New York City. 
 
+This is the clusters neighborhoods color representation in the Map of New York City:
+
+- Cluster 1 : **Red**
+- Cluster 2 : **Purple**
+- Cluster 3 : **Bleu**
+- Cluster 4 : **Green**
+- Cluster 5 : **Orange**
+
 <img src="images/newyork_clusters_map.png" alt="New York City clusters map" >
