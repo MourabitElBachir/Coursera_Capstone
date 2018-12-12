@@ -233,3 +233,6 @@ The Paris City clusters are presented below.
 #### Clusters of New York City
 
 The New York City clusters are presented below.
+
+<img src="images/newyork_clusters.png" alt="New York City clusters" >
+
