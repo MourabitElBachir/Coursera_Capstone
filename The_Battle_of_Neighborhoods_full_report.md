@@ -78,4 +78,28 @@ At this point the data is organized in a Pandas DataFrame like the following:
  - **New York City Base Dataframe :**
 
   <img src="images/base_data_newyork.JPG" alt="Base Data for New York City">
+  
+
+The **New York City** dataframe has 5 boroughs and 302 neighborhoods, and **Paris** dataframe has 20 boroughs and 124 neighborhoods. With the data collected at this point we can already visualize geographically each neighborhood using the Folium package to generate interactive Leaflet maps.
+
+- **Paris boroughs tablulation areas visualization :**
+
+  <img src="images/paris_boroughs.JPG" alt="Paris boroughs tablulation areas">
+
+
+- **Paris Neighborhoods tablulation areas visualization :**
+
+  <img src="images/paris_neighborhoods.JPG" alt="Paris Neighborhoods tablulation areas">
+
+
+- **New York City boroughs tablulation areas visualization :**
+
+  <img src="images/newyork_boroughs.JPG" alt="New York City boroughs tablulation areas">
+
+
+- **New York City Neighborhoods tablulation areas visualization :**
+
+  <img src="images/newyork_neighborhoods.JPG" alt="New York City Neighborhoods tablulation areas">
+
+
 
